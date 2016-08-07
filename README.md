@@ -38,7 +38,7 @@ DON first collects the output of several commands, parses the output, and
 creates a JSON database. This database is then used by the analyzer module, the
 visualizer module, and the test module.
 ![DON: Schematic](/images/don_schematic.png "DON: Schematic")
-<img src="/images/don_schematic.png" width="100">
+<img src="/images/don_schematic.png" width="50%">
 
 ## How to Run:
 
